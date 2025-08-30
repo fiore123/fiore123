@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # executa automaticamente todo dia
+  schedule: # roda 1x por dia
     - cron: "0 0 * * *"
   workflow_dispatch: # permite rodar manualmente
 
@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: fiore123
           outputs: dist/github-contribution-grid-snake.gif
-          
+
       - name: Upload to the repository
         uses: EndBug/add-and-commit@v9
         with:
