@@ -24,14 +24,11 @@
  
 ### 🐍 Minhas cobrinhas
 
-GIF animado (funciona no GitHub):
-![Snake gif](https://github.com/fiore123/fiore123/blob/output/snake.gif)
+# ![Snake gif](https://github.com/fiore123/fiore123/blob/output/snake.gif)
 
-SVG clássico:
 ![Snake classic](https://github.com/fiore123/fiore123/blob/output/snake-classic.svg)
 
-SVG estilo "area":
-![Snake area](https://github.com/fiore123/fiore123/blob/output/snake-area.svg)
+# ![Snake area](https://github.com/fiore123/fiore123/blob/output/snake-area.svg)
 
 
   
