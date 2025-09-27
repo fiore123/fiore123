@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://images.icon-icons.com/112/PNG/512/python_18894.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png">
 
 </div>
  
